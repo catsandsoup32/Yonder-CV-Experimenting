@@ -1,5 +1,10 @@
 # Yonder-CV-Experimenting
 
+# 11-15-2024
+Trained YOLO on original Roboflow dataset to get a baseline.
+- From confusion matrix, really bad at recognizing backgrounds w/o object 
+- Very likely because only 60 / 2000 images are null
+
 # 11-14-2024
 Started work on generating synthetic data with the following pipeline:
 - Use Stable Diffusion to generate a larger dataset with images in wide variety of contexts
