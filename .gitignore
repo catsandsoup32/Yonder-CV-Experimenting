@@ -1,6 +1,8 @@
 # Data folders
 data/
-
+datasets/
+baseline_data/
+runs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
