@@ -1,0 +1,12 @@
+train: C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\baseline_data\train
+val: C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\baseline_data\valid
+
+nc: 2
+names: ['wide_mouth_bottle', 'orange_mallet']
+
+roboflow:
+  workspace: malletbottle2
+  project: malletbottledetection2
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/malletbottle2/malletbottledetection2/dataset/8
