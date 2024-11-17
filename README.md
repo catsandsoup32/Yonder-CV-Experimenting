@@ -1,7 +1,7 @@
 # Yonder-CV-Experimenting
 
 # 11-16-2024
-Used Hugging Face's example script to fine-tune Stable Diffusion 1.5 with new \<wide-mouth-bottle\> token.
+Used Hugging Face's example script to fine-tune Stable Diffusion 1.5 with new \<wide-mouth-bottle\> and \<orange-mallet\> tokens.
 - Initial training run on the wide-mouth bottle went really poorly because of large backgrounds, model doing bad with "nalgene" text, and the bottle having inconsistent shape/color
 - Second run with orange mallet is not as bad, but still lots of room for improvement
 - Stable Diffusion 3 and 3.5 use a transformer instead of a U-Net, requires some modification of the Hugging Face example script
