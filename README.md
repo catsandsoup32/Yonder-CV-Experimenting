@@ -1,5 +1,12 @@
 # Yonder-CV-Experimenting
 
+# 11-17-2024
+** Found some other teams' public datasets on Roboflow (such as [this one](https://universe.roboflow.com/marsrover/mallet-0ga9i-rhbx6/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)). **
+Improving the quality of mallet example images for textual inversion. 
+- Diffusers script is doing random.choice from the 'imagenet_templates_small'
+- Modified to have prompt labels correspond with each image
+- Need to ensure example images are high quality, have minimal orientation differences, and have possibly complex backgrounds to be more robust
+
 # 11-16-2024
 Used Hugging Face's example script to fine-tune Stable Diffusion 1.5 with new \<wide-mouth-bottle\> and \<orange-mallet\> tokens.
 - Initial training run on the wide-mouth bottle went really poorly because of large backgrounds, model doing bad with "nalgene" text, and the bottle having inconsistent shape/color
