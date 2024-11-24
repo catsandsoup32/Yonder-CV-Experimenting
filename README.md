@@ -2,7 +2,7 @@
 
 # 11-18-2024
 Trained YOLO for 150 epochs on SC dataset.
-- No more false positives of bottles/mallets predicted on background images.
+- No more false positives of bottles/mallets predicted on background images \*in the validation predictions\*
 
 # 11-17-2024
 ** Found some other teams' public datasets on Roboflow (such as [this one](https://universe.roboflow.com/marsrover/mallet-0ga9i-rhbx6/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)). **
