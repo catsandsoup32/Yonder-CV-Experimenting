@@ -1,5 +1,9 @@
 # Yonder-CV-Experimenting
 
+# 12-4-2024
+Did some testing with latest textual inversion weights.
+- Generation of the mallet performs well but inconsistently - probably six training examples is not enough
+
 # 11-18-2024
 Trained YOLO for 150 epochs on SC dataset.
 - No more false positives of bottles/mallets predicted on background images \*in the validation predictions\*
