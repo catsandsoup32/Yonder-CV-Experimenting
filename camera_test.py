@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load the model
-yolo = YOLO('saved_runs/sc_150epochs_exp1/weights/best.pt')
+yolo = YOLO('saved_runs/train12/weights/best.pt')
 
 # Load the video capture
 videoCap = cv2.VideoCapture(0)
