@@ -1,6 +1,6 @@
 # Yonder-CV-Experimenting
 
-# 12-2-2024
+# 02-02-2025
 Weights from January 29 in train6 folder worked well testing on lawn by JH.
 
 # 12-4-2024
