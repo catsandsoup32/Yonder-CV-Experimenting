@@ -15,8 +15,8 @@ def add_coco_data(new_dir):
         else: break
             #save_dir = 'test'
 
-        shutil.copy(file, rf"C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\sc_data\{save_dir}\images")
-        with open(rf"C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\sc_data\{save_dir}\labels\{file_name}", 'w') as file: pass
+        shutil.copy(file, rf"C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\march_data_large_flip\{save_dir}\images")
+        with open(rf"C:\Users\edmun\VSC_DIRS\Yonder-CV-Experimenting\datasets\march_data_large_flip\{save_dir}\labels\{file_name}", 'w') as file: pass
         print(idx)
 
 def loop_remove(data_path, dir_type):
