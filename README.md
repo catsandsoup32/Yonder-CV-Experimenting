@@ -1,5 +1,8 @@
 # Yonder-CV-Experimenting
 
+# 02-02-2025
+YOLOv11 weights from January 29 in train6 folder worked well testing on lawn by JH.
+
 # 12-4-2024
 Did some testing with latest textual inversion weights.
 - Generation of the mallet performs well but inconsistently - probably six training examples is not enough

@@ -28,7 +28,3 @@ if __name__ == '__main__':
 
 # YoloV8 with sc dataset, 300/100 COCO in train/val
 # lr=1e-5 weightdecay=1e-4 -> train7
-
-# YOLO11 with march dataset (max roboflow flip), same COCO numbers
-# lr0=1e-5 weightdecay=1e-4
-# trying medium instead of small
